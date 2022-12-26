@@ -11,4 +11,4 @@ Users can save events for each hour of the day with this simple calendar applica
 # Repository link
 
 
-#                                                                             Web site link
+# Website link
