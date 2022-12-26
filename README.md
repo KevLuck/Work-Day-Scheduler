@@ -9,6 +9,7 @@ Description
 Users can save events for each hour of the day with this simple calendar application.
 
 # Repository link
+https://github.com/KevLuck/Work-Day-Scheduler.git
 
 
 # Website link
